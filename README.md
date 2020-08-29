@@ -1,8 +1,9 @@
 
 # OpenBot: Robot Body
-[简体中文]("/中文版说明.md")
+[简体中文](/中文版说明.md)
+
 We have designed a body for a wheeled robot which relies on low-cost, readily available hobby hardware. 
-![Assembly](../docs/images/assembly.gif)
+![Assembly](/images/assembly.gif)
 
 ## 3D printed chassis
 You will need to print the following parts in order to build your OpenBot. 
