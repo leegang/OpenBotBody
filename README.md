@@ -1,5 +1,6 @@
 
 # OpenBot: Robot Body
+[简体中文]("/中文版说明.md")
 We have designed a body for a wheeled robot which relies on low-cost, readily available hobby hardware. 
 ![Assembly](../docs/images/assembly.gif)
 
@@ -26,7 +27,7 @@ Since a lot of common 3D printers have a smaller build volume, we have also made
 You will need the following components.
 - 4x TT motors with tires ([<$2](https://www.aliexpress.com/item/4000126948489.html?spm=a2g0o.productlist.0.0.15293359bK54gA&algo_pvid=75eb3a47-44d5-4f6c-9ea0-e758f0d08837&algo_expid=75eb3a47-44d5-4f6c-9ea0-e758f0d08837-3&btsid=0bb47a2215986857911752326e0253&ws_ab_test=searchweb0_0,searchweb201602_,searchweb201603_) )
 - 1x L298N Motor Driver ([$ 1.34](https://www.aliexpress.com/item/32994608743.html?spm=a2g0o.productlist.0.0.b8be157eJVP5lY&algo_pvid=088ff2ac-a4ec-4b17-be43-92254d84f9fa&algo_expid=088ff2ac-a4ec-4b17-be43-92254d84f9fa-1&btsid=0bb47a2215986861645618336e0253&ws_ab_test=searchweb0_0,searchweb201602_,searchweb201603_))
-- 1x Arduino Nano ([< $ 2](https://www.aliexpress.com/item/32866959979.html?spm=a2g0o.productlist.0.0.d78d3391GJVFfZ&algo_pvid=da4460e1-407b-4132-a0db-947a431ab822&algo_expid=da4460e1-407b-4132-a0db-947a431ab822-0&btsid=0bb47a2215986862077318889e0253&ws_ab_test=searchweb0_0,searchweb201602_,searchweb201603_ ))
+- 1x Arduino Nano ([< $ 2](https://www.aliexpress.com/item/32647196840.html?spm=a2g0o.productlist.0.0.4fc0c98fL3tVJG&algo_pvid=3f03ed1f-a5df-460d-8d5b-61f7fdd7a26b&algo_expid=3f03ed1f-a5df-460d-8d5b-61f7fdd7a26b-3&btsid=0b86d80215987092423996118e7530&ws_ab_test=searchweb0_0,searchweb201602_,searchweb201603_ ))
 - 2 x Speed Sensor ([< $2](https://www.aliexpress.com/i/32990256417.html))
 - 3x 18650 battery ([< $5](https://www.aliexpress.com/item/32324914059.html?spm=a2g0o.productlist.0.0.2e8f4b074mHrYv&algo_pvid=fc2f97ca-c64c-43c1-a4b8-e9e7fe81cb09&algo_expid=fc2f97ca-c64c-43c1-a4b8-e9e7fe81cb09-0&btsid=0bb47a2215986864108333405e0253&ws_ab_test=searchweb0_0,searchweb201602_,searchweb201603_))
 - 1x 18650 battery holder([<$5 ](https://www.aliexpress.com/item/33037738446.html?spm=a2g0o.productlist.0.0.5c602568XlNOGM&algo_pvid=b667d7dc-7798-4fbc-8fbc-760fd4ebc4ef&algo_expid=b667d7dc-7798-4fbc-8fbc-760fd4ebc4ef-0&btsid=0bb47a2215986864956914727e0253&ws_ab_test=searchweb0_0,searchweb201602_,searchweb201603_))
